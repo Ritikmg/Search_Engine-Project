@@ -1,0 +1,1 @@
+b'There are n people\xc2\xa0that are split into some unknown number of groups. Each person is labeled with a\xc2\xa0unique ID\xc2\xa0from\xc2\xa00\xc2\xa0to\xc2\xa0n - 1.'

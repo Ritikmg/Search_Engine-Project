@@ -1,0 +1,1 @@
+b"You are given a square board\xc2\xa0of characters. You can move on the board starting at the bottom right square marked with the character\xc2\xa0'S'."

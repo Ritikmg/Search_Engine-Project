@@ -1,0 +1,1 @@
+b'You are given an integer array prices representing the daily price history of a stock, where prices[i] is the stock price on the ith day.'

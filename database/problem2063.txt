@@ -1,0 +1,1 @@
+b"Balanced strings are those that have an equal quantity of 'L' and 'R' characters."

@@ -1,0 +1,1 @@
+b"There is a survey that consists of n questions where each question's answer is either 0 (no) or 1 (yes)."

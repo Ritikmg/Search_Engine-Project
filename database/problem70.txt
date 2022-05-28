@@ -1,0 +1,1 @@
+b'We define str = [s, n] as the string str which consists of the string s concatenated n times.'

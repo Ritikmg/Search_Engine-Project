@@ -1,0 +1,1 @@
+b'Given a pattern and a string s, find if s\xc2\xa0follows the same pattern.'

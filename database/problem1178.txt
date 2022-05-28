@@ -1,0 +1,1 @@
+b'Given a string s, return true if s is a good string, or false otherwise.'

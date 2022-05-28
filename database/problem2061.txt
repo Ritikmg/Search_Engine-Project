@@ -1,0 +1,1 @@
+b'A string s is called happy if it satisfies the following conditions:'

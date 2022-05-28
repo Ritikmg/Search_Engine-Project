@@ -1,0 +1,1 @@
+b'Given an\xc2\xa0integer n, return a string with n\xc2\xa0characters such that each character in such string occurs an odd number of times.'

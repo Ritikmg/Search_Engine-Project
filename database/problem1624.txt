@@ -1,0 +1,1 @@
+b'The distance of a pair of integers a and b is defined as the absolute difference between a and b.'

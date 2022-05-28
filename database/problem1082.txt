@@ -1,0 +1,1 @@
+b'Given\xc2\xa0the array orders, which represents the orders that customers have done in a restaurant. More specifically\xc2\xa0orders[i]=[customerNamei,tableNumberi,foodItemi] where customerNamei is the name of the customer, tableNumberi\xc2\xa0is the table customer sit at, and foodItemi\xc2\xa0is the item customer orders.'

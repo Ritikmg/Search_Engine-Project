@@ -1,0 +1,1 @@
+b'Given an array arr that represents a permutation of numbers from 1 to n.'

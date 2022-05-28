@@ -1,0 +1,1 @@
+b"Given a m\xc2\xa0* n\xc2\xa0matrix seats\xc2\xa0\xc2\xa0that represent seats distributions\xc2\xa0in a classroom.\xc2\xa0If a seat\xc2\xa0is\xc2\xa0broken, it is denoted by '#' character otherwise it is denoted by a '.' character."

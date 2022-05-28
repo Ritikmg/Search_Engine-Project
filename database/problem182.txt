@@ -1,0 +1,1 @@
+b'Given an array of integers, return the maximum sum for a non-empty\xc2\xa0subarray (contiguous elements) with at most one element deletion.\xc2\xa0In other words, you want to choose a subarray and optionally delete one element from it so that there is still at least one element left and the\xc2\xa0sum of the remaining elements is maximum possible.'

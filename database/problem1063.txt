@@ -1,0 +1,1 @@
+b'Given a string s.\xc2\xa0Return\xc2\xa0all the words vertically in the same order in which they appear in s.\nWords are returned as a list of strings, complete with\xc2\xa0spaces when is necessary. (Trailing spaces are not allowed).\nEach word would be put on only one column and that in one column there will be only one word.'

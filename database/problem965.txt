@@ -1,0 +1,1 @@
+b'Two strings X\xc2\xa0and Y\xc2\xa0are similar if we can swap two letters (in different positions) of X, so that\xc2\xa0it equals Y. Also two strings X and Y are similar if they are equal.'

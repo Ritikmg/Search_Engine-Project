@@ -1,0 +1,1 @@
+b"A gene string can be represented by an 8-character long string, with choices from 'A', 'C', 'G', and 'T'."

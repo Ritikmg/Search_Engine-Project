@@ -1,0 +1,1 @@
+b'Given an m x n matrix, return\xc2\xa0true\xc2\xa0if the matrix is Toeplitz. Otherwise, return false.'

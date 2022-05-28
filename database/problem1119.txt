@@ -1,0 +1,1 @@
+b'You are given a list of strings of the same length words and a string target.'

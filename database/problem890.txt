@@ -1,0 +1,1 @@
+b'Given the array nums, obtain a subsequence of the array whose sum of elements is strictly greater than the sum of the non\xc2\xa0included elements in such subsequence.\xc2\xa0'

@@ -1,0 +1,1 @@
+b'You are given two positive integers left and right with left <= right. Calculate the product of all integers in the inclusive range [left, right].'

@@ -1,0 +1,1 @@
+b'Two strings are considered close if you can attain one from the other using the following operations:'

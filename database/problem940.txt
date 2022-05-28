@@ -1,0 +1,1 @@
+b'Special binary strings are binary strings with the following two properties:'

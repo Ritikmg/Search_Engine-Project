@@ -1,0 +1,1 @@
+b'A chef has collected data on the satisfaction level of his n dishes. Chef can cook any dish in 1 unit of time.'

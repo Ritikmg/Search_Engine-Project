@@ -1,0 +1,1 @@
+b'There are some stones in different positions on the X-axis. You are given an integer array stones, the positions of the stones.'

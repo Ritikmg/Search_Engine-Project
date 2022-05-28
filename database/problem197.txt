@@ -1,0 +1,1 @@
+b'There are n piles of coins on a table. Each pile consists of a positive number of coins of assorted denominations.'

@@ -1,0 +1,1 @@
+b'Given an n x n grid\xc2\xa0containing only values 0 and 1, where\xc2\xa00 represents water\xc2\xa0and 1 represents land, find a water cell such that its distance to the nearest land cell is maximized, and return the distance.\xc2\xa0If no land or water exists in the grid, return -1.'

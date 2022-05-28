@@ -1,0 +1,1 @@
+b'You are given a 2D integer array tiles where tiles[i] = [li, ri] represents that every tile j in the range li <= j <= ri is colored white.'

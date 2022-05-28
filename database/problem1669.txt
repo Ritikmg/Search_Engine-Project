@@ -1,0 +1,1 @@
+b'There is a car with capacity empty seats. The vehicle only drives east (i.e., it cannot turn around and drive west).'

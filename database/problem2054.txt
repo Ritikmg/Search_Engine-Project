@@ -1,0 +1,1 @@
+b'You are given a string text. You should split it to k substrings (subtext1, subtext2, ..., subtextk) such that:'

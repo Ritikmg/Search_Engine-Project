@@ -1,0 +1,1 @@
+b'A sequence is special if it consists of a positive number of 0s, followed by a positive number of 1s, then a positive number of 2s.'

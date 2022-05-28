@@ -1,0 +1,1 @@
+b'Given the array houses where houses[i] is the location of the ith house along a street and an integer k, allocate k mailboxes in the street.'

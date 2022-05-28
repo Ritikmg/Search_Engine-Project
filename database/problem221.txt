@@ -1,0 +1,1 @@
+b'Given an array of integers cost and an integer target, return the maximum integer you can paint under the following rules:'

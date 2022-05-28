@@ -1,0 +1,1 @@
+b'The bitwise AND of an array nums is the bitwise AND of all integers in nums.'

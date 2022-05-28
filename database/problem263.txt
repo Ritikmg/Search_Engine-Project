@@ -1,0 +1,1 @@
+b'You are given an integer array nums\xe2\x80\x8b\xe2\x80\x8b\xe2\x80\x8b and an integer k. You are asked to distribute this array into k subsets of equal size such that there are no two equal elements in the same subset.'

@@ -1,0 +1,1 @@
+b'Given a positive integer k, you need to find the length of the smallest positive integer n such that n is divisible by k, and n only contains the digit 1.'

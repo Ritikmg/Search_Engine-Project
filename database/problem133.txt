@@ -1,0 +1,1 @@
+b'We have an array arr of non-negative integers.'

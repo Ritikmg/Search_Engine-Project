@@ -1,0 +1,1 @@
+b'Given an integer num, find the closest two integers in absolute difference whose product equals\xc2\xa0num + 1\xc2\xa0or num + 2.'

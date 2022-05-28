@@ -1,0 +1,1 @@
+b"There are\xc2\xa0n\xc2\xa0items each\xc2\xa0belonging to zero or one of\xc2\xa0m\xc2\xa0groups where group[i]\xc2\xa0is the group that the i-th item belongs to and it's equal to -1\xc2\xa0if the i-th item belongs to no group. The items and the groups are zero indexed. A group can have no item belonging to it."

@@ -1,0 +1,1 @@
+b'An array is squareful if the sum of every pair of adjacent elements is a perfect square.'

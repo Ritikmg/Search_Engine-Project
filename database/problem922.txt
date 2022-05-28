@@ -1,0 +1,1 @@
+b'Given an array nums. We define a running sum of an array as\xc2\xa0runningSum[i] = sum(nums[0]\xe2\x80\xa6nums[i]).'

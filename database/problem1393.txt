@@ -1,0 +1,1 @@
+b'In a deck of cards, each card has an integer written on it.'

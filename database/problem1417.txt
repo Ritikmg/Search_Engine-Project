@@ -1,0 +1,1 @@
+b'There are three stones in different positions on the X-axis. You are given three integers a, b, and c, the positions of the stones.'

@@ -1,0 +1,1 @@
+b'You are given a string text. You can swap two of the characters in the text.'

@@ -1,0 +1,1 @@
+b'Given an array arr\xc2\xa0of positive integers\xc2\xa0sorted in a strictly increasing order, and an integer k.'

@@ -1,0 +1,1 @@
+b'Given two arrays of integers\xc2\xa0nums and index. Your task is to create target array under the following rules:'

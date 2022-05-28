@@ -1,0 +1,1 @@
+b'You are given a stream of records about a particular stock. Each record contains a timestamp and the corresponding price of the stock at that timestamp.'

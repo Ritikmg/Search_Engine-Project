@@ -1,0 +1,1 @@
+b'We stack glasses in a pyramid, where the first row has 1 glass, the second row has 2 glasses, and so on until the 100th row.\xc2\xa0 Each glass holds one cup\xc2\xa0of champagne.'

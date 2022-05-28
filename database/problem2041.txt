@@ -1,0 +1,1 @@
+b'There is a broken calculator that has the integer startValue on its display initially. In one operation, you can:'

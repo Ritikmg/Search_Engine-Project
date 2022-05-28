@@ -1,0 +1,1 @@
+b'You are given a 0-indexed binary string floor, which represents the colors of tiles on a floor:'

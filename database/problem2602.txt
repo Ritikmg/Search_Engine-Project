@@ -1,0 +1,1 @@
+b'On an 8x8 chessboard, there can be multiple Black Queens and one White King.'

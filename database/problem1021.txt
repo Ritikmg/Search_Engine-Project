@@ -1,0 +1,1 @@
+b'A string is a valid parentheses string\xc2\xa0(denoted VPS) if and only if it consists of "(" and ")" characters only, and:'

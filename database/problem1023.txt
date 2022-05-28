@@ -1,0 +1,1 @@
+b'On an alphabet board, we start at position (0, 0), corresponding to character\xc2\xa0board[0][0].'

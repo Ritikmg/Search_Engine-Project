@@ -1,0 +1,1 @@
+b'You are given a string s. Reorder the string using the following algorithm:'

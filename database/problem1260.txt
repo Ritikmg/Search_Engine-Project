@@ -1,0 +1,1 @@
+b'The set [1, 2, 3, ...,\xc2\xa0n] contains a total of n! unique permutations.'

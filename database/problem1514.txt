@@ -1,0 +1,1 @@
+b'You are given a positive integer primeFactors. You are asked to construct a positive integer n that satisfies the following conditions:'

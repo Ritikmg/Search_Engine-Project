@@ -1,0 +1,1 @@
+b'You are given two integer arrays of the same length nums1 and nums2. In one operation, you are allowed to swap nums1[i] with nums2[i].'

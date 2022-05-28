@@ -1,0 +1,1 @@
+b'Given a 2D\xc2\xa0grid consists of 0s (land)\xc2\xa0and 1s (water).\xc2\xa0 An island is a maximal 4-directionally connected group of 0s and a closed island\xc2\xa0is an island totally\xc2\xa0(all left, top, right, bottom) surrounded by 1s.'

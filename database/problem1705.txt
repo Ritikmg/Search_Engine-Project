@@ -1,0 +1,1 @@
+b'Given a sentence\xc2\xa0text (A\xc2\xa0sentence\xc2\xa0is a string of space-separated words) in the following format:'

@@ -1,0 +1,1 @@
+b"You are given two strings stamp and target. Initially, there is a string s of length target.length with all s[i] == '?'."

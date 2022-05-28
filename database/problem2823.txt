@@ -1,0 +1,1 @@
+b"A magical string s consists of only '1' and '2' and obeys the following rules:"

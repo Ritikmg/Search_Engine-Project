@@ -1,0 +1,1 @@
+b'Given two arrays nums1\xc2\xa0and nums2.'

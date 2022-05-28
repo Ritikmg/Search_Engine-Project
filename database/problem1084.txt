@@ -1,0 +1,1 @@
+b'Given a\xc2\xa0string s\xc2\xa0of zeros and ones, return the maximum score after splitting the string into two non-empty substrings (i.e. left substring and right substring).'

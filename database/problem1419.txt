@@ -1,0 +1,1 @@
+b'Given an array points where points[i] = [xi, yi] represents a point on the X-Y plane, return true if these points are a boomerang.'

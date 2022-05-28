@@ -1,0 +1,1 @@
+b"A certain bug's home is on the x-axis at position x. Help them get there from position 0."

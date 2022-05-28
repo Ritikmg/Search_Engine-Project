@@ -1,0 +1,1 @@
+b'You are given a 0-indexed array of n integers arr.'

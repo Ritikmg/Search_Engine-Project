@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CodeSearcher</title>
+     <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+<body>
+
+  <nav>
+
+    <div class="icon">RG<b style="color:aquamarine;">code</b></div>
+    <div class="search_box">
+      <form action="" class="searching">
+          <input type="text" name="question" id="question" placeholder="Type your Question here"/>
+          <input type="submit" value="Ask me" id="but"/>
+      </form>
+      <div class="loading" style="color: white;"></div>
+    </div>
+  </nav>
+      <div class="question">
+          <div class="title"></div>
+          <div class="quesBody"></div>
+          <a href=""></a>
+      </div>
+      <div class="question">
+        <div class="title"></div>
+        <div class="quesBody"></div>
+        <a href=""></a>
+      </div>
+      <div class="question">
+        <div class="title"></div>
+        <div class="quesBody"></div>
+        <a href=""></a>
+      </div>
+      <div class="question">
+        <div class="title"></div>
+        <div class="quesBody"></div>
+        <a href=""></a>
+      </div>
+      <div class="question">
+        <div class="title"></div>
+        <div class="quesBody"></div>
+        <a href=""></a>
+      </div>
+      <div class="question">
+        <div class="title"></div>
+        <div class="quesBody"></div>
+        <a href=""></a>
+    </div>
+    <div class="question">
+      <div class="title"></div>
+      <div class="quesBody"></div>
+      <a href=""></a>
+    </div>
+    <div class="question">
+      <div class="title"></div>
+      <div class="quesBody"></div>
+      <a href=""></a>
+    </div>
+    <div class="question">
+      <div class="title"></div>
+      <div class="quesBody"></div>
+      <a href=""></a>
+    </div>
+    <div class="question">
+      <div class="title"></div>
+      <div class="quesBody"></div>
+      <a href=""></a>
+    </div>
+</body>
+</html>
+<script>
+    const form = document.querySelector("form");
+    const questionElement = form.question;
+    //questionElement.value contains the question or say the query
+    const questions = document.querySelectorAll(".question")
+    const titles = document.querySelectorAll(".title")
+    const Body = document.querySelectorAll(".quesBody")
+    const loadingDiv =  document.querySelector(".loading")
+    const ur = document.querySelectorAll('a')
+    // console.log(questions);
+    // console.log(titles);
+    // console.log(urls);
+    // console.log(quesBody);
+    form.addEventListener("submit", async (e)=>{
+        e.preventDefault(); //prevent from refreshing the page
+        const question = questionElement.value;
+        for(let i=0;i<10;i++){
+            titles[i].innerHTML = ``;
+            Body[i].innerHTML = ``;
+            ur[i].setAttribute("href",``);
+            ur[i].text=``;
+        }
+        loadingDiv.innerHTML = `Loading...`;
+        //fetch - helps us to fire request to /serach?query=get the sum of array
+        try {
+            const res = await fetch(`/search?question=${question}` ,{ method: "GET"});
+            const data = await res.json();
+            loadingDiv.innerHTML = ``;
+            for(let i=0;i<10;i++){
+                titles[i].innerHTML = `<h2 style="font-weight: bolder">${data[i].title}</h2>`;
+                Body[i].innerHTML = `<h3 style="font-weight: lighter">${data[i].statement}</h3>`;
+                ur[i].setAttribute("href", data[i].url);
+                ur[i].text=data[i].url;
+            }
+        } catch (error) {
+            alert(error);
+        }
+    });
+</script>

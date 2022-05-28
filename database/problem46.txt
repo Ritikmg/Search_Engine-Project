@@ -1,0 +1,1 @@
+b'A super ugly number is a positive integer whose prime factors are in the array primes.'

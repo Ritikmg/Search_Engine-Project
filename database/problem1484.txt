@@ -1,0 +1,1 @@
+b'You have an array arr of length n where arr[i] = (2 * i) + 1 for all valid values of i (i.e.,\xc2\xa00 <= i < n).'

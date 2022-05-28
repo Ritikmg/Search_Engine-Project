@@ -1,0 +1,1 @@
+b'Given an array\xc2\xa0nums\xc2\xa0of integers, we need to find the maximum possible sum of elements of the array such that it is divisible by three.'

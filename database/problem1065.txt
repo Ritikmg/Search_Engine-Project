@@ -1,0 +1,1 @@
+b'Given a string s\xc2\xa0consisting only of characters a, b and c.'

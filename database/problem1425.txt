@@ -1,0 +1,1 @@
+b'We distribute some\xc2\xa0number of candies, to a row of n =\xc2\xa0num_people\xc2\xa0people in the following way:'

@@ -1,0 +1,1 @@
+b'Alice and Bob continue their\xc2\xa0games with piles of stones.\xc2\xa0 There are a number of\xc2\xa0piles\xc2\xa0arranged in a row, and each pile has a positive integer number of stones\xc2\xa0piles[i].\xc2\xa0 The objective of the game is to end with the most\xc2\xa0stones.\xc2\xa0'

@@ -1,0 +1,1 @@
+b'You have a keyboard layout as shown above in the X-Y plane, where each English uppercase letter is located at some coordinate.'

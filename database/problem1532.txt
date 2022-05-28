@@ -1,0 +1,1 @@
+b'Alice and Bob take turns playing a game, with Alice\xc2\xa0starting first.'

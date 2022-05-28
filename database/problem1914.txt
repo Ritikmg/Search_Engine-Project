@@ -1,0 +1,1 @@
+b'There is a 1 million by 1 million grid on an XY-plane, and the coordinates of each grid square are (x, y).'

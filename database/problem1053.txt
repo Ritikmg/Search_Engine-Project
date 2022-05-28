@@ -1,0 +1,1 @@
+b'Given a list of words, list of\xc2\xa0 single\xc2\xa0letters (might be repeating)\xc2\xa0and score\xc2\xa0of every character.'

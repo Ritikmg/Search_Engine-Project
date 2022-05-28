@@ -1,0 +1,1 @@
+b'You are given two groups of points where the first group has size1 points, the second group has size2 points, and size1 >= size2.'

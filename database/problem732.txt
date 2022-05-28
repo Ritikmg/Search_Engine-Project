@@ -1,0 +1,1 @@
+b'There is an integer array nums that consists of n unique elements, but you have forgotten it. However, you do remember every pair of adjacent elements in nums.'

@@ -1,0 +1,1 @@
+b'A string s can be partitioned into groups of size k using the following procedure:'

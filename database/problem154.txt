@@ -1,0 +1,1 @@
+b'There are n piles of stones arranged in a row. The ith pile has stones[i] stones.'

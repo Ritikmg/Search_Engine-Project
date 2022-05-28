@@ -1,0 +1,1 @@
+b'Implement the class SubrectangleQueries\xc2\xa0which receives a rows x cols rectangle as a matrix of integers in the constructor and supports two methods:'

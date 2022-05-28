@@ -1,0 +1,1 @@
+b'Given two strings: s1 and s2 with the same\xc2\xa0size, check if some\xc2\xa0permutation of string s1 can break\xc2\xa0some\xc2\xa0permutation of string s2 or vice-versa. In other words s2 can break s1\xc2\xa0or vice-versa.'

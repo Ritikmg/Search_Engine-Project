@@ -1,0 +1,1 @@
+b'Given a list of unique words, return all the pairs of the\xc2\xa0distinct indices (i, j) in the given list, so that the concatenation of the two words\xc2\xa0words[i] + words[j] is a palindrome.'

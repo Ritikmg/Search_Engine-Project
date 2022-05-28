@@ -1,0 +1,1 @@
+b'There are n rooms you need to visit, labeled from 0 to n - 1. Each day is labeled, starting from 0. You will go in and visit one room a day.'

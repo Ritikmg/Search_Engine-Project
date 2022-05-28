@@ -1,0 +1,1 @@
+b'You are given an integer finalSum. Split it into a sum of a maximum number of unique positive even integers.'

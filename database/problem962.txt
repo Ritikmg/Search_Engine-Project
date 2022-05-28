@@ -1,0 +1,1 @@
+b'You are given a personal information string s, representing either an email address or a phone number. Return the masked personal information using the below rules.'

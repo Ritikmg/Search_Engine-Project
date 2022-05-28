@@ -1,0 +1,1 @@
+b'You are given a 0-indexed integer array nums. Rearrange the values of nums according to the following rules:'

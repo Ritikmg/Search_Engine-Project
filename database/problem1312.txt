@@ -1,0 +1,1 @@
+b'Given an integer num, return a string representing its hexadecimal representation. For negative integers, two\xe2\x80\x99s complement method is used.'

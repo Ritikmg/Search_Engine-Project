@@ -1,0 +1,1 @@
+b'A string originalText is encoded using a slanted transposition cipher to a string encodedText with the help of a matrix having a fixed number of rows rows.'

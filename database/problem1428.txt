@@ -1,0 +1,1 @@
+b'The Tribonacci sequence Tn is defined as follows:\xc2\xa0'

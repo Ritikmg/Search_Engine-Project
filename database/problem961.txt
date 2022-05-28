@@ -1,0 +1,1 @@
+b'In a string s\xc2\xa0of lowercase letters, these letters form consecutive groups of the same character.'

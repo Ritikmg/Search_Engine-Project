@@ -1,0 +1,1 @@
+b'You are given an array\xc2\xa0coordinates, coordinates[i] = [x, y], where [x, y] represents the coordinate of a point. Check if these points\xc2\xa0make a straight line in the XY plane.'

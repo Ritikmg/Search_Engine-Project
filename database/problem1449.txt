@@ -1,0 +1,1 @@
+b'Given an array nums of\xc2\xa0positive integers. Your task is to select some subset of nums, multiply each element by an integer and add all these numbers.\xc2\xa0The array is said to be\xc2\xa0good\xc2\xa0if you can obtain a sum of\xc2\xa01\xc2\xa0from the array by any possible subset and multiplicand.'

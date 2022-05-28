@@ -1,0 +1,1 @@
+b'You are given two strings, word1 and word2. You want to construct a string in the following manner:'

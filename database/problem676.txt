@@ -1,0 +1,1 @@
+b'Given an array of\xc2\xa0integers arr, you are initially positioned at the first index of the array.'

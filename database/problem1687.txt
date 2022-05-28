@@ -1,0 +1,1 @@
+b'Given the array restaurants where \xc2\xa0restaurants[i] = [idi, ratingi, veganFriendlyi, pricei, distancei]. You have to filter the restaurants using three filters.'

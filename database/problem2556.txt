@@ -1,0 +1,1 @@
+b'You are asked to cut off all the trees in a forest for a golf event. The forest is represented as an m x n matrix. In this matrix:'

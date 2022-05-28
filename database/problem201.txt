@@ -1,0 +1,1 @@
+b'Given a string s. In one step you can insert any character at any index of the string.'

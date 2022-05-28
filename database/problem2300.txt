@@ -1,0 +1,1 @@
+b'A Binary Matrix is a matrix in which all the elements are either 0 or 1.'

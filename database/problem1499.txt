@@ -1,0 +1,1 @@
+b'You are given an integer n, the number of teams in a tournament that has strange rules:'

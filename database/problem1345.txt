@@ -1,0 +1,1 @@
+b'Given two integers n and k, construct a list answer that contains n different positive integers ranging from 1 to n and obeys the following requirement:'

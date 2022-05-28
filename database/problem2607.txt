@@ -1,0 +1,1 @@
+b'You are given a map of a server center, represented as a m * n integer matrix\xc2\xa0grid, where 1 means that on that cell there is a server and 0 means that it is no server. Two servers are said to communicate if they are on the same row or on the same column.\n\nReturn the number of servers\xc2\xa0that communicate with any other server.'

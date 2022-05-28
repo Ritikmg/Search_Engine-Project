@@ -1,0 +1,1 @@
+b'Given two integer arrays startTime and endTime and given an integer queryTime.'

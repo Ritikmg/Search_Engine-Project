@@ -1,0 +1,1 @@
+b'Write an API that generates fancy sequences using the append, addAll, and multAll operations.'

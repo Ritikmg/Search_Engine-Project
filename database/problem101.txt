@@ -1,0 +1,1 @@
+b'We are given n different types of stickers. Each sticker has a lowercase English word on it.'

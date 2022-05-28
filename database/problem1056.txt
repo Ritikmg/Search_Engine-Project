@@ -1,0 +1,1 @@
+b'Given a string s, return the maximum number of ocurrences of any substring under the following rules:'

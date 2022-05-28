@@ -1,0 +1,1 @@
+b'You are given an array nums\xe2\x80\x8b\xe2\x80\x8b\xe2\x80\x8b and an integer k\xe2\x80\x8b\xe2\x80\x8b\xe2\x80\x8b\xe2\x80\x8b\xe2\x80\x8b. The XOR of a segment [left, right] where left <= right is the XOR of all the elements with indices between left and right, inclusive: nums[left] XOR nums[left+1] XOR ... XOR nums[right].'

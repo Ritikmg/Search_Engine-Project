@@ -1,0 +1,1 @@
+b'You are given a string s, and an array of pairs of indices in the string\xc2\xa0pairs\xc2\xa0where\xc2\xa0pairs[i] =\xc2\xa0[a, b]\xc2\xa0indicates 2 indices(0-indexed) of the string.'

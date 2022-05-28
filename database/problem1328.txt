@@ -1,0 +1,1 @@
+b"A web developer needs to know how to design a web page's size. So, given a specific rectangular web page\xe2\x80\x99s area, your job by now is to design a rectangular web page, whose length L and width W satisfy the following requirements:"

@@ -1,0 +1,1 @@
+b"Given a 2D grid of 0s and 1s, return the number of elements in\xc2\xa0the largest square\xc2\xa0subgrid that has all 1s on its border, or 0 if such a subgrid\xc2\xa0doesn't exist in the grid."

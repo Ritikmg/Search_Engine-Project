@@ -1,0 +1,1 @@
+b'A company is planning to interview 2n people. Given the array costs where costs[i] = [aCosti, bCosti],\xc2\xa0the cost of flying the ith person to city a is aCosti, and the cost of flying the ith person to city b is bCosti.'

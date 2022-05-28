@@ -1,0 +1,1 @@
+b'A split of an integer array is good if:'

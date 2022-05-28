@@ -1,0 +1,1 @@
+b'An integer array original is transformed into a doubled array changed by appending twice the value of every element in original, and then randomly shuffling the resulting array.'

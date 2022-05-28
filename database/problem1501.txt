@@ -1,0 +1,1 @@
+b'Hercy wants to save money for his first car. He puts money in the Leetcode\xc2\xa0bank every day.'

@@ -1,0 +1,1 @@
+b'There is a safe protected by a password. The password is a sequence of n digits where each digit can be in the range [0, k - 1].'

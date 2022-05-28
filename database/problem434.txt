@@ -1,0 +1,1 @@
+b'In an\xc2\xa0n*n\xc2\xa0grid, there is a snake that spans 2 cells and starts moving from the top left corner at (0, 0) and (0, 1). The grid has empty cells represented by zeros and blocked cells represented by ones. The snake wants to reach the lower right corner at\xc2\xa0(n-1, n-2)\xc2\xa0and\xc2\xa0(n-1, n-1).'

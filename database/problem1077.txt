@@ -1,0 +1,1 @@
+b'Given the binary representation of an integer as a string s, return the number of steps to reduce it to 1 under the following rules:'

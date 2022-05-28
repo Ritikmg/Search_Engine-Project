@@ -1,0 +1,1 @@
+b'In a warehouse, there is a row of barcodes, where the ith barcode is barcodes[i].'

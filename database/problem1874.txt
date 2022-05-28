@@ -1,0 +1,1 @@
+b'There are n couples sitting in 2n seats arranged in a row and want to hold hands.'
